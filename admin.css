@@ -1,0 +1,26 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: Arial;
+    padding: 50px;
+}
+
+form {
+    width: 350px;
+}
+
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+}
+
+button {
+    background: #c49b63;
+    border: none;
+    cursor: pointer;
+}
+
+.success {
+    color: #c49b63;
+}
